@@ -99,7 +99,7 @@ Python 3.x: The script requires Python 3.x to run. You can check your Python ver
 
 Install Python 3.x:
 
-* ip_addresses.txt
+* cmd\shell:
   ```sh
   sudo apt install python3
   ```
@@ -113,7 +113,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/marvinthl/Python-SSH-Certificate-Checker
    ```
-2. Install NPM packages
+2. Install Paramiko
    ```sh
    pip install paramiko
    ```
