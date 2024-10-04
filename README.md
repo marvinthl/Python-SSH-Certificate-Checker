@@ -109,16 +109,15 @@ Install Python 3.x:
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/marvinthl/Python-SSH-Certificate-Checker
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    pip install paramiko
    ```
-4. Prepare a text file containing a list of IP addresses, with one IP per line. For example, create a file called
+3. Prepare a text file containing a list of IP addresses, with one IP per line. For example, create a file called
 
 * ip_addresses.txt
   ```sh
@@ -126,7 +125,7 @@ _Below is an example of how you can instruct your audience on installing and set
   192.168.1.20
   192.168.1.30
    ```
-5. Run the script
+4. Run the script
    ```sh
    python scanner.py
    ```
@@ -143,7 +142,7 @@ _Below is an example of how you can instruct your audience on installing and set
 - [ ] Add threading
 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/marvinthl/Python-SSH-Certificate-Checker/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
